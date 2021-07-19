@@ -13,7 +13,7 @@
 
 ## 목차
 1. [if then](./if_then_And_Or/)
-2. [delta rule](./delta_rule/)
+2. [Delta Rule](./delta_rule/)
 3. [EBP](./EBP/)
 
 ## 역할 분담   
