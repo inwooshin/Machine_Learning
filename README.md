@@ -8,7 +8,6 @@
    
 을 조원으로 한 머신러닝 프로젝트이다.
 
-   
 ## 구조
 
 ![뉴런](https://user-images.githubusercontent.com/59462895/125373224-b0d5ea80-e3bf-11eb-9815-716b716b11a9.png)
