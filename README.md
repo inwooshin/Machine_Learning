@@ -12,8 +12,8 @@
 으로 구성되는 프로젝트이다.
 
 ## 목차
-1. [if then folder](./if_then_And_Or/)
-2. [delta rule folder](./delta_rule/)
+1. [if then](./if_then_And_Or/)
+2. [delta rule](./delta_rule/)
 3. [EBP](./EBP/)
 
 ## 역할 분담   
