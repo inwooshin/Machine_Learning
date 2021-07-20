@@ -15,7 +15,7 @@
 
 <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>   
    
-다음의 언어로 만들었고, python 은 matplotlib 를 사용하였다.
+다음의 언어를 사용하였고, python 은 matplotlib 를 사용하였다.
 
 ## 목차
 1. [if then](./if_then_And_Or/)
