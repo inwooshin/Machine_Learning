@@ -1,6 +1,7 @@
 # Machine_Learning
 
-## 소개     
+## 소개   
+
 ![뉴런](https://user-images.githubusercontent.com/59462895/125373224-b0d5ea80-e3bf-11eb-9815-716b716b11a9.png)   
    
    이 프로젝트는 머신러닝 프로젝트로서 위의 그림의 구조를 만들기 위한 과정이다. 팀원으로는
@@ -9,7 +10,12 @@
    - 김홍민
    - 박지원   
    
-으로 구성되는 프로젝트이다.
+으로 구성되는 프로젝트이다.   
+   
+
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>   
+   
+다음의 언어로 만들었고, python 은 matplotlib 를 사용하였다.
 
 ## 목차
 1. [if then](./if_then_And_Or/)
